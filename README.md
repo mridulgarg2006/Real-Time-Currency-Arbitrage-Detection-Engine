@@ -1,5 +1,4 @@
 # Real-Time-Currency-Arbitrage-Detection-Engine
-# currency arbitrage detection engine
 
 a low-latency c++ engine that detects risk-free profit loops in foreign exchange markets using graph theory.
 
